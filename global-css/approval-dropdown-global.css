@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-pretendard: Pretendard;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --table-bg2: #f9f9fb;
+  --white: #f5f5f5;
+  --pagination-bg: #f1f3f5;
+  --table-bg: #eef0f4;
+  --input-form-completed: #b1b4bb;
+  --color-darkgray-100: #a1a1a1;
+  --primary-main: #2a3958;
+  --light-3: #ebeef3;
+  --neutral-1: #fff;
+  --light-1: #dde0e6;
+  --input-form-default: #d7d8da;
+  --input-form-error: #ff4d4f;
+  --dark-1: #222;
+  --dark-2: #141f2d;
+  --dark-11: #0b101a;
+  --status-text-bg1: #dcfce7;
+  --status-text-approval: #166534;
+  --green-400: #31c48d;
+  --status-text-bg2: #ffedd5;
+  --status-text-waiting: #9a3412;
+  --status-text-bg3: #fee2e2;
+  --status-text-refusal: #991b1b;
+  --color-dimgray: #5a616a;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-xs: 12px;
+  --gap-7xs: 6px;
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-base: 16px;
+  --padding-3xs: 10px;
+  --padding-mid: 17px;
+  --padding-41xl: 60px;
+  --padding-8xs: 5px;
+  --padding-lg: 18px;
+  --padding-11xs: 2px;
+  --padding-6xs: 7px;
+  --padding-7xs: 6px;
+  --padding-27xl: 46px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-3xs: 10px;
+  --br-10xs: 3px;
+
+  /* Effects */
+  --check-box-shaodw: 0px 1px 1px rgba(0, 0, 0, 0.1),
+    0px 0px 0px 1px rgba(70, 79, 96, 0.16), 0px 2px 5px rgba(89, 96, 120, 0.1);
+  --dropdown-shadow1: 0px 8px 16px rgba(54, 54, 54, 0.15);
+}

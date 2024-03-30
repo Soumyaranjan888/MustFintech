@@ -1,0 +1,135 @@
+.checkbox114 {
+  width: 20px;
+  position: relative;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--input-form-default);
+  box-sizing: border-box;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div973 {
+  position: relative;
+  letter-spacing: -0.02px;
+}
+.checkbox-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.checkbox-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--primary-main);
+  width: 20px;
+  height: 20px;
+}
+.vector-icon18 {
+  position: absolute;
+  height: 23%;
+  width: 33.5%;
+  top: 37.5%;
+  right: 33%;
+  bottom: 39.5%;
+  left: 33.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.checkbox119 {
+  width: 20px;
+  position: relative;
+  border-radius: var(--br-7xs);
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.checkbox-parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.div979 {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  letter-spacing: -0.02px;
+  display: inline-block;
+  width: 450px;
+}
+.dropdown-inpur-form-status68 {
+  width: 552px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--input-form-default);
+  box-sizing: border-box;
+  height: 100px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: var(--light-1);
+}
+.frame-parent15,
+.frame-parent16 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frame-parent15 {
+  position: absolute;
+  top: 16px;
+  left: 179px;
+}
+.div980,
+.must6 {
+  position: absolute;
+  top: 0;
+}
+.div980 {
+  left: 0;
+  font-weight: 500;
+}
+.must6 {
+  left: 89px;
+  border-radius: 50%;
+  background-color: var(--input-form-error);
+  width: 4px;
+  height: 4px;
+}
+.parent16 {
+  position: absolute;
+  top: 141px;
+  left: 16px;
+  width: 93px;
+  height: 19px;
+}
+.select-direct-input-inner {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  border-radius: 0 0 0 var(--br-3xs);
+  background-color: var(--table-bg);
+  width: 160px;
+  height: 300px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.select-direct-input {
+  width: 100%;
+  position: relative;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--white1);
+  height: 300px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--dark-11);
+  font-family: var(--font-pretendard);
+}
